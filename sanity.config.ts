@@ -8,7 +8,7 @@ const devOnlyPlugins = [getStartedPlugin()]
 
 export default defineConfig({
   name: 'default',
-  title: 'aqua-parrot',
+  title: 'portfolio',
 
   projectId: '7wtw73ni',
   dataset: 'production',
